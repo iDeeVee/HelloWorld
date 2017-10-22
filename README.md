@@ -1,2 +1,2 @@
 # HelloWorld
-Hello, GIT world!!!
+Hello, GIT world!!! GIT is awesome!!!
